@@ -30,7 +30,7 @@ Durante a execução deste projeto acompanhando as aulas, pude aprofundar meu en
 
 ## 📖 Como visualizar o projeto?
 
-[👉 Clique aqui para acessar o site Curiosidades do Android](https://valdirneto34.github.io/Projeto-Android/)
+👉 [Clique aqui para acessar o site Curiosidades do Android](https://valdirneto34.github.io/Projeto-Android/)
 
 ---
 
