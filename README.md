@@ -38,7 +38,7 @@ Durante a execução deste projeto acompanhando as aulas, pude aprofundar meu en
 
 1. Clone este repositório em sua máquina:
    ```bash
-   git clone https://valdirneto34.github.io/Projeto-Android/
+   git clone https://github.com/valdirneto34/Projeto-Android
    ```
 
 ---
